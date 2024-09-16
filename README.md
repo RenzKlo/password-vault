@@ -29,13 +29,12 @@
 **Python 3.12**
 - pymongo
 - cryptography
-- bson
 
 #### Installation
 
 In the terminal: 
 ```
-pip install pymongo cryptography bson
+pip install pymongo cryptography
 ```
 
 #### Running the Program

@@ -1,7 +1,6 @@
 import re
 import hashlib
 import os
-from bson.objectid import ObjectId
 from key_manager import UserKeysManager
 from db_connector import get_db
 from session import Session
